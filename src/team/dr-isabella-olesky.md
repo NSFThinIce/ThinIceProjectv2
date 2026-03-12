@@ -1,9 +1,9 @@
 ---
-name: Dr. David Richardson3
+name: Dr. Isabella A. Olesky
 position: Principal Investigator
-institution: SUNY New Paltz
-image: https://nsfthinice.github.io/ThinIceProject/images/team/principal-investigators/david-richardson.jpg
-imageAlt: Portrait of Dr. David Richardson
+institution: University of Colorado Boulder
+image: /assets/isabella-oleksy.jpg
+imageAlt: Portrait of Isabella A. Olesky
 ---
 ## Research Focus
 

@@ -2,7 +2,7 @@
 name: Dr. David Richardson
 position: Principal Investigator
 institution: SUNY New Paltz
-image: https://nsfthinice.github.io/ThinIceProject/images/team/principal-investigators/david-richardson.jpg
+image: /assets/david-richardson.jpg
 imageAlt: Portrait of Dr. David Richardson
 ---
 ## Research Focus
