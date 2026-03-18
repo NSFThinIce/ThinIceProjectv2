@@ -12,3 +12,6 @@ Dr. Richardson's primary research focuses on aquatic ecology and conservation bi
 ## Publications
 
 He has published extensively on the effects of habitat fragmentation and climate change on fish populations.
+
+## Where to Contact
+LinkedIn Page: 
