@@ -1,8 +1,8 @@
 ---
 name: Julia Pop
-position: Undergraduate Student
+position: Field/Lab Support for Gradient + Modelled Lakes
 institution: University of Colorado Boulder
-image: https://placehold.net/400x400.png
+image: /assets/julia_pop.jpg
 imageAlt: Portrait of Julia Pop
 ---
 No details provided.

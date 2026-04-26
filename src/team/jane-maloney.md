@@ -1,8 +1,8 @@
 ---
 name: Jane Maloney
-position: Undergraduate Student
+position: Undergraduate Field Tech Support
 institution: SUNY New Paltz
-image: https://placehold.net/400x400.png
+image: /assets/jane_maloney.jpeg
 imageAlt: Portrait of Jane Maloney
 ---
 No details provided.

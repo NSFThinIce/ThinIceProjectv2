@@ -1,6 +1,6 @@
 ---
 name: Dr. Kiyoko Yokota
-position: Associate Professor
+position: Lake Scientist
 institution: State University of New York at Oneonta
 image: /assets/yokota_kiyoko_005.jpg
 imageAlt: Portrait of Kiyoko Yokota

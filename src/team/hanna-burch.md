@@ -1,8 +1,8 @@
 ---
 name: Hanna Burch
-position: Undergraduate Student
+position: Undergraduate Field Tech Support
 institution: SUNY New Paltz
-image: https://placehold.net/400x400.png
+image: /assets/hanna_burch.jpeg
 imageAlt: Portrait of Hanna Burch
 ---
 No details provided.

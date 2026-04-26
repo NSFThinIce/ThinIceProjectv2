@@ -1,8 +1,8 @@
 ---
 name: Kloe Atwood
-position: Masters Student
+position: Gradient Lake Data Collector
 institution: Miami University (Ohio)
-image: https://placehold.net/400x400.png
+image: /assets/kloe_atwood.jpeg
 imageAlt: Portrait of Kloe Atwood
 ---
 No details provided.

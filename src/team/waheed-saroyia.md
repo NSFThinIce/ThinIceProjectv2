@@ -1,8 +1,8 @@
 ---
 name: Waheed Saroyia
 position: Undergraduate Student
-institution: SUNY Buffalo(?)
-image: https://placehold.net/400x400.png
+institution: SUNY Buffalo
+image: /assets/waheed_saroyia.jpeg
 imageAlt: Portrait of Waheed Saroyia
 ---
 No details provided.

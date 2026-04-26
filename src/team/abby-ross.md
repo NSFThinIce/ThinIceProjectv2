@@ -1,6 +1,6 @@
 ---
 name: Abby Ross
-position: PhD Student
+position: OTI Graduate Research Assistant
 institution: University of Colorado Boulder
 image: /assets/logo.jpg
 imageAlt: N/A

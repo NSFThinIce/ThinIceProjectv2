@@ -1,6 +1,6 @@
 ---
 name: Scott Higgins
-position: Research Scientist
+position: Senior Research Scientist
 institution: IISD-ELA
 image: /assets/scott-higgins-2019.jpg
 imageAlt: Portrait of Scott Higgins

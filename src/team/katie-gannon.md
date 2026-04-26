@@ -1,6 +1,6 @@
 ---
 name: Katie Gannon
-position: PhD Student in the Mountain Limnology Lab
+position: Ecosystem Ecologist
 institution: " University of Colorado Boulder and the Institute for Arctic and
   Alpine Research "
 image: /assets/katie-in-boat.jpg
